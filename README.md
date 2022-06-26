@@ -1,2 +1,2 @@
 # 9key-docs
-Documentation for xiao-keypad
+Documentation for 9key
